@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فيا ويب</string>
+    <string name="address_placeholder">ابحث أو أدخل رابطاً…</string>
+    <string name="back">رجوع</string>
+    <string name="forward">تقدم</string>
+    <string name="reload">تحديث</string>
+    <string name="tabs">التبويبات</string>
+    <string name="menu">القائمة</string>
+</resources>

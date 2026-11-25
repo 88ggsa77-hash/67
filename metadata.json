@@ -1,0 +1,8 @@
+{
+  "name": "فيا ويب — متصفح خفيف",
+  "description": "متصفح ويب خفيف وسريع مستوحى من متصفح VIA مع مانع إعلانات، وضع قراءة، وضع توفير البيانات بدون صور، وإدارة تبويبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
